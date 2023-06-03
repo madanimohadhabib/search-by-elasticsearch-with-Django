@@ -5,7 +5,7 @@ Search-by-Elasticsearch-with-Django is a powerful integration that combines the 
         https://www.elastic.co/fr/downloads/past-releases/elasticsearch-7-17-9
 ### Run ELasticsearch from the command line:
         ./bin/elasticsearch
-![Example Image](elasticsearch.png)
+![Example Image](elasticsearch.PNG)
 ### Run Activate the virtual environment:
         env/Scripts/activate
 ### Install elasticsearch in  virtual environment :
@@ -15,8 +15,8 @@ Search-by-Elasticsearch-with-Django is a powerful integration that combines the 
 ### Install django-elasticsearch-dsl and configure in  virtual environment :
         pip install django-elasticsearch-dsl
 ### Configure ELasticsearch into settings.py:
-![Example Image](settings.py.png)
+![Example Image](settings.py.PNG)
 ### Run server Django in virtual environment :
         py manage.py runserver
 
-![Example Image](search.png)
+![Example Image](search.PNG)
